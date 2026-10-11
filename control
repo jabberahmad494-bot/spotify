@@ -1,0 +1,8 @@
+Package: com.yourname.prism
+Name: Prism
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: A redesign tweak for Spotify on iOS.
+Maintainer: yourname
+Author: yourname
+Section: Tweaks
